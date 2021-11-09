@@ -1,5 +1,10 @@
 # Election Analysis
 
+[Overview](#overview-of-election-audit)
+[Resources](#resources)
+[Election Audit Results](#election-audit-results)
+[Summary](#summary)
+
 ## Overview of Election Audit 
 Our client, the Colorado Board of Elections, has tasked us with auditing the results of a recent local congressional election.  The tasks performed in this process were:
 
@@ -13,6 +18,7 @@ Our client, the Colorado Board of Elections, has tasked us with auditing the res
 
 ## Resources
 - Data Source: [election_results.csv](https://github.com/ZeroDarkHardy/Election_Analysis/blob/main/Resources/election_results.csv)
+- Python Code: [PyPoll_Challenge_starter_code.py](https://github.com/ZeroDarkHardy/Election_Analysis/blob/main/PyPoll_Challenge_starter_code.py)
 - Software: Python 3.10.0, Visual Studio Code 1.62.0
 
 ## Election Audit Results
@@ -36,3 +42,4 @@ The full analytical review of the election results show:
 ![READOUT GALLERY](https://github.com/ZeroDarkHardy/Election_Analysis/blob/main/Resources/readout_gallery.png)
 
 ## Summary
+The elegant code we've compiled here has functionality that can handle massive amounts of data, far beyond this single election.  We'd like to propose using this code to handle all your future election analysis, as it can be given minor tweaks to process whatever voter data you have available. With more data, we can add processes to identify which age range the majority of each candidate's voters belong to, what percentage of voters did so by mail (if applicable), or even what economic group comprise the majority of a candidate's voter base.
