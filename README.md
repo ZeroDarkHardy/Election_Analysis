@@ -12,7 +12,7 @@ Our client, the Colorado Board of Elections, has tasked us with auditing the res
 7. Determine which county had the largest voter turnout.
 
 ## Resources
-- Data Source: election_results.csv
+- Data Source: [election_results.csv](https://github.com/ZeroDarkHardy/Election_Analysis/blob/main/Resources/election_results.csv)
 - Software: Python 3.10.0, Visual Studio Code 1.62.0
 
 ## Election Audit Results
