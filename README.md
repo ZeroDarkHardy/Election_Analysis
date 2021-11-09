@@ -1,8 +1,11 @@
 # Election Analysis
 
 [Overview](#overview-of-election-audit)
+
 [Resources](#resources)
+
 [Election Audit Results](#election-audit-results)
+
 [Summary](#summary)
 
 ## Overview of Election Audit 
